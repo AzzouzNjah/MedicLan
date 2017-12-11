@@ -1,0 +1,17 @@
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\obj\Debug\MedicLan.csproj.CoreCompileInputs.cache
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\obj\Debug\MedicLan.MainPage.xaml.g.cs
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\obj\Debug\MedicLan.App.xaml.g.cs
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\obj\Debug\MedicLan.Intro.xaml.g.cs
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\obj\Debug\MedicLan.dll
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\obj\Debug\MedicLan.pdb
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\bin\Debug\MedicLan.dll
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\bin\Debug\MedicLan.pdb
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\bin\Debug\Xamarin.Forms.CarouselView.dll
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Azzouz\Source\Repos\MedicLan\MedicLan\MedicLan\MedicLan\obj\Debug\MedicLan.csprojResolveAssemblyReference.cache
